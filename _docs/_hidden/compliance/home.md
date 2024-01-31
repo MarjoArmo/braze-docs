@@ -6,9 +6,12 @@ layout: dev_guide
 permalink: /compliance-documentation/
 noindex: true
 guide_top_header: "Compliance Documentation"
-guide_top_text: "> Welcome to the Compliance Center. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-guide_top_text2: "<h4>Lorem</h4><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-guide_top_text3: "<h4>Ipsum lorem</h4><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+guide_top_text: "> Welcome to the Compliance Center."
+guide_top_text2: "<h4>What is included in the Compliance Documentation?</h4><br>Specific terms applicable to your purchased product are set forth in the relevant Compliance Documentation below, which describes for each product, channel, feature, functionality or service:
+* For Braze Services functionality that allows customers to interact with, integrate with or access the product, website, application or service of a Third-Party Provider, the applicable Third-Party Provider terms, applicable to your use of such functionality; and
+* Any general industry practices and standards that Braze customers are required to comply with for the use of such Braze product, channel, feature, functionality or service."
+guide_top_text3: "<h4>Updates to the Compliance Documentation</h4><br>Updates to the Compliance Documentation are reflected in our Documentation update on GitHub."
+guide_top_text4: "<h4>How to Find the Relevant Compliance Documentation?</h4><br>See below the list of our products, channels, features, functionalities and services that have Compliance Documentation. If you are using multiple products, all relevant documentation apply."
 
 guide_menu_title: "Legal"
 guide_menu_list:
